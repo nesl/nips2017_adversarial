@@ -25,7 +25,7 @@ The following software is required to run this package:
 * [Docker] (https://www.docker.com/) or [NVIDIA Docker](https://github.com/NVIDIA/nvidia-docker) for GPU support.
 
 ### Instructions:
-* Download and extract the competition toolkit.
+* Download and extract the [competition toolkit](https://www.kaggle.com/c/6866/download/dev_toolkit.zip).
 * Under the competition toolkit run the script `./download_data.sh` to download the development dataset.
 * Copy the attacks from this repo (e.g. ucnesl_targeted, ucnesl_nontargeted to the appropriate folders under the competition toolkit directory (e.g. sample_targeted, and sample_attacks for targeted and non-targeted attacks respectively).
 * Under each attack folder, run the `./download_checkpoints.sh` script to download the models checkpoints.
