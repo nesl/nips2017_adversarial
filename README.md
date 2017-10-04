@@ -11,6 +11,9 @@ This is the submissions of the **UCNesl** team during the [Competition on Advers
 * Sikai Yin [(Sikai Yin)](https://github.com/sikaiyin)
 * [Prof. Mani Srivastava](http://nesl.ee.ucla.edu/people/1)
 
+The attacks in this repo were used as submissions for the final round of the competition.
+
+
 ## Installation
 
 ### Prerequisites:
