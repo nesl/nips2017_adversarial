@@ -22,7 +22,7 @@ Round 2 submission by team UCNesl can be found in [this repo]().
 The following software is required to run this package:
 
 * Python 2.7 with [Numpy](http://www.numpy.org/) and [Pillow](https://python-pillow.org/) Packages.
-* [Docker] (https://www.docker.com/) or [NVIDIA Docker](https://github.com/NVIDIA/nvidia-docker) for GPU support.
+* [Docker](https://www.docker.com/) or [NVIDIA Docker](https://github.com/NVIDIA/nvidia-docker) for GPU support.
 
 ### Instructions:
 * Download and extract the [competition toolkit](https://www.kaggle.com/c/6866/download/dev_toolkit.zip).
