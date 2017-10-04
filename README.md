@@ -13,6 +13,7 @@ This is the submissions of the **UCNesl** team during the [Competition on Advers
 
 The attacks in this repo were used as submissions for the final round of the competition.
 
+Round 2 submission by team UCNesl can be found in [this repo]().
 
 ## Installation
 
