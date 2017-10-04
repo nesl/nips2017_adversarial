@@ -1,0 +1,14 @@
+*.pyc
+**/*.pyc
+__pycache__/
+**/__pycache__/
+.ipynb_checkpoints
+dataset/images*
+dataset/images
+nips/
+**/*.graph
+**/*.tgz
+**/*.gz
+**/*.tar
+**/*.ckpt.*
+**/*.ckpt
